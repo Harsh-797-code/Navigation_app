@@ -1,6 +1,0 @@
-{
-  "name": "MediPath - Hospital Indoor Navigation",
-  "description": "Multi-floor hospital indoor wayfinding and navigation portal with interactive 2D floor maps, turn-by-turn directions, step-free routing, and text-to-speech directions.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
