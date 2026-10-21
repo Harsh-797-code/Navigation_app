@@ -1,0 +1,6 @@
+{
+  "name": "MediPath - Hospital Indoor Navigation",
+  "description": "Hospital indoor navigation and wayfinding application with interactive floor maps, step-by-step routing, and accessibility preferences.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
